@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shapeLists>
+    <sentShapes fill="#d3cece" length="250.0" nameOfShape="rectangle" stroke="#000000" width="80.6" x="336.0" x2="0.0" x3="0.0" y="188.0" y2="0.0" y3="0.0">
+        <angle>0.0</angle>
+    </sentShapes>
+    <sentShapes fill="#d3cece" length="100.0" nameOfShape="square" stroke="#000000" width="0.0" x="581.0" x2="0.0" x3="0.0" y="80.0" y2="0.0" y3="0.0">
+        <angle>0.0</angle>
+    </sentShapes>
+    <sentShapes fill="#d3cece" length="50.0" nameOfShape="circle" stroke="#000000" width="50.0" x="333.0" x2="0.0" x3="0.0" y="50.0" y2="0.0" y3="0.0">
+        <angle>0.0</angle>
+    </sentShapes>
+</shapeLists>
